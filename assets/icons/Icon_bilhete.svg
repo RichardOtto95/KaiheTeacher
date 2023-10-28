@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="Caminho_4178" x="-6.556" y="1.948" width="57.242" height="57.242" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_982" x="16.9" y="-1.531" width="35.548" height="45.123" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_4172" x="16.424" y="23.177" width="21.696" height="22.027" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Prancheta_5">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="Prancheta_5" data-name="Prancheta – 5" clip-path="url(#clip-Prancheta_5)">
+    <g id="Grupo_12554" data-name="Grupo 12554" transform="translate(2.445 0.81)">
+      <g transform="matrix(1, 0, 0, 1, -2.44, -0.81)" filter="url(#Caminho_4178)">
+        <g id="Caminho_4178-2" data-name="Caminho 4178" transform="translate(2.44 7.95)" fill="#eb6780">
+          <path d="M 31.61146926879883 38.24181747436523 L 7.630348682403564 38.24181747436523 C 3.974358797073364 38.24181747436523 0.9999987483024597 35.26745986938477 0.9999987483024597 31.61146926879883 L 0.9999987483024597 7.630348682403564 C 0.9999987483024597 3.974358797073364 3.974358797073364 0.9999987483024597 7.630348682403564 0.9999987483024597 L 31.61146926879883 0.9999987483024597 C 35.26745986938477 0.9999987483024597 38.24181747436523 3.974358797073364 38.24181747436523 7.630348682403564 L 38.24181747436523 31.61146926879883 C 38.24181747436523 35.26745986938477 35.26745986938477 38.24181747436523 31.61146926879883 38.24181747436523 Z" stroke="none"/>
+          <path d="M 7.630348205566406 2 C 4.5257568359375 2 2 4.5257568359375 2 7.630348205566406 L 2 31.61145782470703 C 2 34.71604919433594 4.5257568359375 37.24181747436523 7.630348205566406 37.24181747436523 L 31.61145782470703 37.24181747436523 C 34.71604919433594 37.24181747436523 37.24181747436523 34.71604919433594 37.24181747436523 31.61145782470703 L 37.24181747436523 7.630348205566406 C 37.24181747436523 4.5257568359375 34.71604919433594 2 31.61145782470703 2 L 7.630348205566406 2 M 7.630348205566406 0 L 31.61145782470703 0 C 35.82558822631836 0 39.24181747436523 3.416229248046875 39.24181747436523 7.630348205566406 L 39.24181747436523 31.61145782470703 C 39.24181747436523 35.82558822631836 35.82558822631836 39.24181747436523 31.61145782470703 39.24181747436523 L 7.630348205566406 39.24181747436523 C 3.416229248046875 39.24181747436523 0 35.82558822631836 0 31.61145782470703 L 0 7.630348205566406 C 0 3.416229248046875 3.416229248046875 0 7.630348205566406 0 Z" stroke="none" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_10435" data-name="Grupo 10435" transform="translate(23.456 0)">
+        <g transform="matrix(1, 0, 0, 1, -25.9, -0.81)" filter="url(#Retângulo_982)">
+          <g id="Retângulo_982-2" data-name="Retângulo 982" transform="translate(40.62 4.47) rotate(30)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+            <rect width="3.27" height="29.431" stroke="none"/>
+            <rect x="0.5" y="0.5" width="2.27" height="28.431" fill="none"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -25.9, -0.81)" filter="url(#Caminho_4172)">
+          <path id="Caminho_4172-2" data-name="Caminho 4172" d="M.684,0,0,2.85,2.5,1.167Z" transform="translate(25.95 29.83) rotate(-3)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Retângulo_983" data-name="Retângulo 983" transform="translate(16.823 0) rotate(30)" fill="#fff" stroke="#fff" stroke-width="1">
+          <rect width="3.27" height="3.27" rx="1" stroke="none"/>
+          <rect x="0.5" y="0.5" width="2.27" height="2.27" rx="0.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

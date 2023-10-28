@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="49.017" viewBox="0 0 40 49.017">
+  <defs>
+    <filter id="Retângulo_970" x="3" y="0" width="35" height="36" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_4159" x="5.739" y="28.166" width="28.873" height="20.851" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_4181" x="1.495" y="22.036" width="37.431" height="24.726" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_967" x="0" y="18" width="40" height="22" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_971" x="6" y="3" width="29" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.569"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_10425" data-name="Grupo 10425" transform="translate(-8.872 2.616)">
+    <g transform="matrix(1, 0, 0, 1, 8.87, -2.62)" filter="url(#Retângulo_970)">
+      <g id="Retângulo_970-2" data-name="Retângulo 970" transform="translate(12 6)" fill="#75c3b5" stroke="#fff" stroke-width="1">
+        <path d="M8.5,0h0A8.5,8.5,0,0,1,17,8.5V18a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8.5A8.5,8.5,0,0,1,8.5,0Z" stroke="none"/>
+        <path d="M8.5.5h0a8,8,0,0,1,8,8v8.742a.258.258,0,0,1-.258.258H.758A.258.258,0,0,1,.5,17.242V8.5A8,8,0,0,1,8.5.5Z" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_9795" data-name="Grupo 9795" transform="translate(17.872 21.684)">
+      <g id="Retângulo_966" data-name="Retângulo 966" transform="translate(0 -0.3)" fill="none" stroke="#fff" stroke-width="0.8">
+        <rect width="22" height="4" rx="2" stroke="none"/>
+        <rect x="0.4" y="0.4" width="21.2" height="3.2" rx="1.6" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -9, -24.3)" filter="url(#Caminho_4159)">
+        <g id="Caminho_4159-2" data-name="Caminho 4159" transform="translate(14.74 32.98)" fill="#6fb9ac">
+          <path d="M 9.51412296295166 3.637639045715332 L 1.35916268825531 3.637639045715332 C 0.8302826285362244 3.637639045715332 0.400002658367157 3.146289110183716 0.400002658367157 2.542349100112915 L 0.400002658367157 1.590376973152161 L 10.47328281402588 1.687105059623718 L 10.47328281402588 2.542349100112915 C 10.47328281402588 3.146289110183716 10.04300308227539 3.637639045715332 9.51412296295166 3.637639045715332 Z" stroke="none"/>
+          <path d="M 0.8000030517578125 1.994234800338745 L 0.8000030517578125 2.542349100112915 C 0.8000030517578125 2.919239044189453 1.056062698364258 3.237639188766479 1.359162330627441 3.237639188766479 L 9.51412296295166 3.237639188766479 C 9.817222595214844 3.237639188766479 10.07328224182129 2.919239044189453 10.07328224182129 2.542349100112915 L 10.07328224182129 2.08328104019165 L 0.8000030517578125 1.994234800338745 M 2.86102294921875e-06 1.186519145965576 L 10.87328243255615 1.290929079055786 L 10.87328243255615 2.542349100112915 C 10.87328243255615 3.368179321289062 10.26476287841797 4.037639141082764 9.51412296295166 4.037639141082764 L 1.359162330627441 4.037639141082764 C 0.6085128784179688 4.037639141082764 2.86102294921875e-06 3.368179321289062 2.86102294921875e-06 2.542349100112915 L 2.86102294921875e-06 1.186519145965576 Z" stroke="none" fill="#fff"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -9, -24.3)" filter="url(#Caminho_4181)">
+        <g id="Caminho_4181-2" data-name="Caminho 4181" transform="translate(10.49 28.04)" fill="#6fb9ac">
+          <path d="M 14.19946670532227 6.326062202453613 L 5.231386661529541 6.326062202453613 C 2.567346334457397 6.326062202453613 0.3999964594841003 4.158712387084961 0.3999964594841003 1.494682312011719 L 0.3999964594841003 0.4000023305416107 L 19.03085708618164 0.4000023305416107 L 19.03085708618164 1.494682312011719 C 19.03085708618164 4.158712387084961 16.86350631713867 6.326062202453613 14.19946670532227 6.326062202453613 Z" stroke="none"/>
+          <path d="M 0.7999973297119141 0.8000025749206543 L 0.7999973297119141 1.494682312011719 C 0.7999973297119141 3.938152313232422 2.787906646728516 5.92606258392334 5.231386184692383 5.92606258392334 L 14.19946670532227 5.92606258392334 C 16.64294624328613 5.92606258392334 18.63085556030273 3.938152313232422 18.63085556030273 1.494682312011719 L 18.63085556030273 0.8000025749206543 L 0.7999973297119141 0.8000025749206543 M -3.814697265625e-06 2.384185791015625e-06 L 19.43085670471191 2.384185791015625e-06 L 19.43085670471191 1.494682312011719 C 19.43085670471191 4.383892059326172 17.08868598937988 6.726062297821045 14.19946670532227 6.726062297821045 L 5.231386184692383 6.726062297821045 C 2.342166900634766 6.726062297821045 -3.814697265625e-06 4.383892059326172 -3.814697265625e-06 1.494682312011719 L -3.814697265625e-06 2.384185791015625e-06 Z" stroke="none" fill="#fff"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -9, -24.3)" filter="url(#Retângulo_967)">
+        <g id="Retângulo_967-2" data-name="Retângulo 967" transform="translate(9 24)" fill="#6fb9ac" stroke="#fff" stroke-width="0.8">
+          <rect width="22" height="4" rx="2" stroke="none"/>
+          <rect x="0.4" y="0.4" width="21.2" height="3.2" rx="1.6" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 8.87, -2.62)" filter="url(#Retângulo_971)">
+      <g id="Retângulo_971-2" data-name="Retângulo 971" transform="translate(15 9)" fill="none" stroke="#fff" stroke-width="0.8">
+        <rect width="11" height="13" rx="5.5" stroke="none"/>
+        <rect x="0.4" y="0.4" width="10.2" height="12.2" rx="5.1" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

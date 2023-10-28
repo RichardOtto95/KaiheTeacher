@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="Retângulo_972" x="-5" y="-2" width="58" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_4161" x="4.296" y="7.601" width="40.008" height="19" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_4162" x="4.296" y="18.418" width="40.008" height="19" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_4163" x="4.296" y="29.234" width="40.008" height="19" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Prancheta_3">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="Prancheta_3" data-name="Prancheta – 3" clip-path="url(#clip-Prancheta_3)">
+    <g id="Grupo_12556" data-name="Grupo 12556" transform="translate(4 4.297)">
+      <g id="Grupo_10474" data-name="Grupo 10474">
+        <g transform="matrix(1, 0, 0, 1, -4, -4.3)" filter="url(#Retângulo_972)">
+          <g id="Retângulo_972-2" data-name="Retângulo 972" transform="translate(4 4)" fill="#f2b129" stroke="#fff" stroke-width="1">
+            <rect width="40" height="40" rx="7" stroke="none"/>
+            <rect x="0.5" y="0.5" width="39" height="39" rx="6.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -4, -4.3)" filter="url(#Caminho_4161)">
+          <path id="Caminho_4161-2" data-name="Caminho 4161" d="M0,0H22.008" transform="translate(13.3 14.1)" fill="#e54949" stroke="#fff" stroke-width="1"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -4, -4.3)" filter="url(#Caminho_4162)">
+          <path id="Caminho_4162-2" data-name="Caminho 4162" d="M0,0H22.008" transform="translate(13.3 24.92)" fill="#e54949" stroke="#fff" stroke-width="1"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -4, -4.3)" filter="url(#Caminho_4163)">
+          <path id="Caminho_4163-2" data-name="Caminho 4163" d="M0,0H22.008" transform="translate(13.3 35.73)" fill="#e54949" stroke="#fff" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,84 @@
+  Container topMenu() {
+    return Container(
+      width: MediaQuery.of(context).size.width,
+      // padding: EdgeInsets.symmetric(horizontal: 22),
+      child: Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
+        Container(
+          width: 100,
+          child: TextButton(
+            onPressed: () {
+              // print("Voltar para tela de atividades");
+              mainController.pageListIndex = 0;
+            },
+            child: Row(
+              children: [
+                // Icon(
+                //   Icons.arrow_back_ios,
+                //   color: Colors.white,
+                // ),
+                Text(
+                  "Cancelar",
+                  style: TextStyle(
+                      color: Colors.white,
+                      fontWeight: FontWeight.normal,
+                      fontSize: 16),
+                ),
+              ],
+            ),
+            style: ButtonStyle(
+                overlayColor: MaterialStateColor.resolveWith(
+                    (states) => Colors.transparent)),
+          ),
+        ),
+        Row(children: [
+          SvgPicture.asset(
+            "assets/icons/icon_alimentacao.svg",
+            height: 40,
+            width: 40,
+            color: Colors.white,
+          ),
+          SizedBox(width: defaultPadding),
+          Text("Chamada", style: TextStyle(color: Colors.white, fontSize: 16))
+        ]),
+        Container(
+          width: 100,
+          alignment: Alignment.centerRight,
+          child: TextButton(
+            onPressed: () {
+              // print("Apagar os dados");
+            },
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.end,
+              children: [
+                SvgPicture.asset(
+                  "assets/icons/send.svg",
+                  height: 16,
+                  width: 16,
+                  color: Colors.white,
+                ),
+                SizedBox(width: 3),
+                Text(
+                  "Enviar",
+                  style: TextStyle(
+                      color: Colors.white,
+                      fontWeight: FontWeight.normal,
+                      fontSize: 16),
+                ),
+              ],
+            ),
+            style: ButtonStyle(
+                overlayColor: MaterialStateColor.resolveWith(
+                    (states) => Colors.transparent)),
+          ),
+        ),
+      ]),
+    );
+  }
+
+
+
+
+
+
+
+  

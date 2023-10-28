@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223539143896",
+    "project_id": "kaihe-54d62",
+    "storage_bucket": "kaihe-54d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223539143896:android:5498fcedcd32780a85a3ad",
+        "android_client_info": {
+          "package_name": "com.kaihe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223539143896-8sb5gcur16592avkd7o49q5pi24s2u44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyXFAACQrC5ZY2epnK5ftvW70R8isddSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223539143896-8sb5gcur16592avkd7o49q5pi24s2u44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

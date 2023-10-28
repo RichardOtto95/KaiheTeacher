@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="Linha_149" x="2.485" y="26.405" width="43.029" height="6" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Linha_150" x="2.485" y="14.395" width="6" height="25.015" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Linha_151" x="39.515" y="26.405" width="6" height="14.006" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Linha_152" x="15.496" y="22.401" width="26.016" height="6" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_251" x="8.668" y="20.309" width="8.127" height="8.127" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_4731" x="10.107" y="13.969" width="7.187" height="6.612" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_4732" x="15.679" y="10.589" width="9.07" height="8.156" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-icon_SVG__1">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="icon_SVG__1" data-name="icon_SVG_ – 1" clip-path="url(#clip-icon_SVG__1)">
+    <g id="Grupo_12168" data-name="Grupo 12168" transform="translate(-32.509 -22.81)">
+      <g id="Grupo_10427" data-name="Grupo 10427" transform="translate(37.994 39.205)">
+        <g id="Grupo_10398" data-name="Grupo 10398" transform="translate(0 0)">
+          <g id="Grupo_10398-2" data-name="Grupo 10398">
+            <path id="Caminho_4173" data-name="Caminho 4173" d="M0,0Z" fill="none" stroke="#fff" stroke-width="1"/>
+            <g transform="matrix(1, 0, 0, 1, -5.49, -16.4)" filter="url(#Linha_149)">
+              <line id="Linha_149-2" data-name="Linha 149" x2="37.03" transform="translate(5.49 28.4)" fill="none" stroke="#fbfafb" stroke-linecap="round" stroke-width="3"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -5.49, -16.4)" filter="url(#Linha_150)">
+              <line id="Linha_150-2" data-name="Linha 150" y2="19.015" transform="translate(5.49 16.4)" fill="none" stroke="#fbfbfb" stroke-linecap="round" stroke-width="3"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -5.49, -16.4)" filter="url(#Linha_151)">
+              <line id="Linha_151-2" data-name="Linha 151" y2="8.006" transform="translate(42.51 28.4)" fill="none" stroke="#fbfbfb" stroke-linecap="round" stroke-width="3"/>
+            </g>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -5.49, -16.4)" filter="url(#Linha_152)">
+          <line id="Linha_152-2" data-name="Linha 152" x2="20.016" transform="translate(18.5 24.4)" fill="none" stroke="#fbfbfb" stroke-linecap="round" stroke-width="3"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -5.49, -16.4)" filter="url(#Elipse_251)">
+          <g id="Elipse_251-2" data-name="Elipse 251" transform="translate(10.17 20.81)" fill="#fff" stroke="#fff" stroke-width="1">
+            <circle cx="2.564" cy="2.564" r="2.564" stroke="none"/>
+            <circle cx="2.564" cy="2.564" r="2.064" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 32.51, 22.81)" filter="url(#Caminho_4731)">
+        <path id="Caminho_4731-2" data-name="Caminho 4731" d="M44.986,36.4h3.186l-3.186,2.612h3.186" transform="translate(-32.88 -21.43)" fill="none" stroke="#fbfafb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 32.51, 22.81)" filter="url(#Caminho_4732)">
+        <path id="Caminho_4732-2" data-name="Caminho 4732" d="M44.986,36.4h5.07l-5.07,4.156h5.07" transform="translate(-27.31 -24.81)" fill="none" stroke="#fbfafb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
